@@ -1,7 +1,7 @@
 # The MET Museum landing
 An adaptive MET Museum page implemented according to [figma design](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29&mode=dev)
 
-To see a demo click [here](https://vitalii-fedusov.github.io/layout_landing-page/)
+To see a demo click [here](https://vitalii-fedusov.github.io/the-MET-museum-landing/)
 ### Technologies
 1. HTML5
 2. SCSS
